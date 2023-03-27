@@ -1,12 +1,11 @@
 # FaceGIF
 
 Create a Fun GIFs from Group Photos.
+![Output GIF](./output.gif)
+
 
 ![Input Image](./input.jpg)
 
-this is the output:
-
-![Output GIF](./output.gif)
 
 This Python script takes an input image, detects faces using OpenCV's Haar cascades, crops and resizes the faces to the same size, and generates an animated GIF from the cropped faces.
 
