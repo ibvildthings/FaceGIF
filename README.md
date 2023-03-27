@@ -46,6 +46,7 @@ python generate_gif.py input.jpg output.gif --speed 0.3 --threshold 3
 ## Parameters
 
 **--speed:** Controls the duration of each frame in the generated GIF. Increase the value to slow down the animation or decrease it to speed up the animation.
+
 **--threshold:** Controls the sensitivity of the face detection algorithm. Increase the value for fewer detections and higher accuracy, or decrease the value for increased sensitivity and potentially more false positives.
 
 
