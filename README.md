@@ -37,7 +37,7 @@ output_gif_path: Path to save the generated GIF.
 
 **--threshold:** (Optional) Threshold for face detection (default: 5).
 
-##For example:
+## For example:
 
 ```bash
 python generate_gif.py input.jpg output.gif --speed 0.3 --threshold 3
