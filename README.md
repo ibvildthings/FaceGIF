@@ -52,4 +52,4 @@ python generate_gif.py input.jpg output.gif --speed 0.3 --threshold 3
 
 ## Note
 
-It works best with front facing photos.
+It works best with front facing photos. You can try to improve this script by using tensorflow or some other ML library.
