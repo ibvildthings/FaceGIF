@@ -1,6 +1,7 @@
 # FaceGIF
 
 Create a Fun GIFs from Group Photos.
+
 ![Output GIF](./output.gif)
 
 
